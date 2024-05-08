@@ -6,4 +6,4 @@
 - 😄 Pronouns: DAP/Little Bird
 - ⚡ Fun fact: Former Special operations 1SG
 
-<script src="https://tryhackme.com/badge/2163826"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/CrimsonPredator160.png" alt="TryHackMe">
